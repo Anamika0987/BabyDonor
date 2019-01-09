@@ -1,0 +1,1 @@
+create table Customer(Cust_id number(6) PRIMARY KEY,Cust_name varchar2(25) Not null,Address Varchar2(25) not null,Email varchar2(30));
